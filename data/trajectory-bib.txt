@@ -1,0 +1,5 @@
+@article{lambert2020learning,
+ title={Learning Accurate Long-term Dynamics for Model-based Reinforcement Learning},
+ author={Lambert, Nathan O and Wilcox, Albert and Zhang, Howard and Pister, Kristofer SJ and Calandra, Roberto},
+ journal={arXiv preprint arXiv:2012.09156},
+ year={2020} }
