@@ -1,0 +1,7 @@
+@inproceedings{thrifty,
+    title={ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning},
+    author={Hoque, Ryan and Balakrishna, Ashwin and Novoseller, Ellen and Brown, Daniel S. and Wilcox, Albert and Goldberg, Ken},
+    booktitle={Conference on Robot Learning (CoRL)},
+    year={2021},
+    organization={PMLR}
+}
