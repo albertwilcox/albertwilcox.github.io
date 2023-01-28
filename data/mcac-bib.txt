@@ -1,0 +1,9 @@
+@inproceedings{
+    wilcox2022monte,
+    title={Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations},
+    author={Albert Wilcox and Ashwin Balakrishna and Jules Dedieu and Wyame Benslimane and Daniel S. Brown and Ken Goldberg},
+    booktitle={Advances in Neural Information Processing Systems},
+    editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+    year={2022},
+    url={https://openreview.net/forum?id=FLzTj4ia8BN}
+}
